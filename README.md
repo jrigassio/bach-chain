@@ -4,7 +4,7 @@
 <p>Music sharing platforms like iTunes and Spotify have been known to take 20-25% of music revenue from artists. BachChain lets artists connect and transact directly with customers utilising the block chain. This removes the need for a distributer and lets record labels and artists keep all of the money they earned themselves.</p>
 
 <h2>Code Architecture</h2>
-<img src="https://github.ibm.com/James-Rigassio/bach-chain/blob/master/IBM%20Hackathon%20-%20Page%201%20(1).png?raw=true" alt="BachChain Diagram">
+<img src="https://github.com/jrigassio/bach-chain/blob/master/IBM%20Hackathon%20-%20Page%201%20(1).png?raw=true" alt="BachChain Diagram">
 
 <h2>Plans for the Future</h2>
 <p>The first priority is improving the applications user interface and reliability. Since this is a minimum viable product, we are missing a lot of the bells and whistles that our full platform would have. Things like a search function, public ledger access, robust payment systems, and an expansion to many types of multimedia will all be included in future versions of BachChain. We want to recreate the music industry by rightfully moving the money from the distributer's hands into those of the artists, producers, and record labels.</p>
